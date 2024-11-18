@@ -1,0 +1,58 @@
+{
+    "configurations": [
+        {
+            "name": "Dart (bin\\json_serializable_main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin\\json_serializable_main.dart",
+            "toolArgs": [
+                "--enable-experiment=macros"
+            ]
+        },
+        {
+            "name": "Dart (bin\\auto_dispose_main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin\\auto_dispose_main.dart",
+            "toolArgs": [
+                "--enable-experiment=macros"
+            ]
+        },
+        {
+            "name": "Dart (bin\\data_class_main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin\\data_class_main.dart",
+            "toolArgs": [
+                "--enable-experiment=macros"
+            ]
+        },
+        {
+            "name": "Dart (bin\\observable_main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin\\observable_main.dart",
+            "toolArgs": [
+                "--enable-experiment=macros"
+            ]
+        },
+        {
+            "name": "Dart (bin\\json.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin\\json.dart",
+            "toolArgs": [
+                "--enable-experiment=macros"
+            ]
+        },
+        {
+            "name": "Dart (bin\\json_codable.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin\\json_codable.dart",
+            "toolArgs": [
+                "--enable-experiment=macros"
+            ]
+        }
+    ]
+}
